@@ -1,0 +1,48 @@
+.wraper{
+    width: 600px;
+    height: 300px;
+    display: flex;
+    border: 20px solid yellowgreen;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+
+}
+
+.avatar2{
+    width: 300px;
+    height: 300px;
+}
+
+.cardRight{
+    width: 50%;
+   
+}
+
+.cardLeft{    
+    width: 50%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
+
+ol{
+    list-style: none;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.avatar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration-line: underline;
+    text-decoration-color: teal;
+    font-size: 30px;
+}
